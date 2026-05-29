@@ -7,7 +7,7 @@ import {
   OnboardingScreen,
   isOnboardingComplete,
 } from "./src/screens/OnboardingScreen";
-import { AppNavigator } from "./src/app/AppNavigator";
+import { AppNavigator } from "./src/navigation/AppNavigator";
 import { colors } from "./src/theme/colors";
 
 export default function App() {
